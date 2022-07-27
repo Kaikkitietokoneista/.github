@@ -1,3 +1,3 @@
 # Kaikkitietokoneista
 
-It is [my](github.com/RoyTakanen) blog's name. I mostly write content in Finnish. 
+Open source IP crawler crawling Finnish IP addresses... It scans these subnets: [can be found here](https://pastebin.fi/p/QqRtlowxhl0z)
